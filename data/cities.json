@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Batumi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-06-20T10:43:18.536Z",
+      "notes": "lovely place",
+      "position": {
+        "lat": "41.628078302921566",
+        "lng": "41.60341680049897"
+      },
+      "id": 739303827
+    },
+    {
+      "cityName": "Kharkiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-06-20T10:44:04.836Z",
+      "notes": "",
+      "position": {
+        "lat": "49.9914082827153",
+        "lng": "36.23102188110352"
+      },
+      "id": 739303828
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-06-21T09:41:26.567Z",
+      "notes": "fgdfgdfgd",
+      "position": {
+        "lat": "55.727110085045986",
+        "lng": "37.705078125"
+      },
+      "id": 739303829
+    },
+    {
+      "cityName": "Derbent",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-06-21T15:28:51.506Z",
+      "notes": "",
+      "position": {
+        "lat": "42.05439124994334",
+        "lng": "48.28834533691406"
+      },
+      "id": 739303830
+    }
+  ]
+}
